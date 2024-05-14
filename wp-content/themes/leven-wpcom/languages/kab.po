@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Leven\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:58:45+00:00\n"
+"PO-Revision-Date: 2020-08-19 01:03:26+0000\n"
+"Language: kab_DZ\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:326
+#: inc/wpcom-editor-colors.php:257
+msgid "Secondary Color"
+msgstr "Ini asinaw"
+
+#: inc/wpcom-colors.php:244
+#: inc/wpcom-editor-colors.php:213
+msgid "Text Color"
+msgstr "Ini n uḍris"
+
+#: inc/wpcom-colors.php:154
+#: inc/wpcom-editor-colors.php:133
+msgid "Link Color"
+msgstr "Ini n useɣwen"
+
+#: inc/wpcom-colors.php:108
+#: inc/wpcom-editor-colors.php:91
+msgid "Background Color"
+msgstr "Ini n uɣawas n deffir"
+
+#: functions.php:90
+msgid "Background"
+msgstr "Aɣawas n deffir"
+
+#: functions.php:85
+msgid "Foreground"
+msgstr "Tazwart"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:138
+msgctxt "Crimson Text font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:80
+msgid "Secondary"
+msgstr "Arnaw"
+
+#: functions.php:75
+msgid "Primary"
+msgstr "Agejdan"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Meqqer aṭas"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Tahrawant"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Amagnu"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Amecṭuḥ"

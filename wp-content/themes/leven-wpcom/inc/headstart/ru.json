@@ -1,0 +1,226 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "main-nav",
+                "menu-2": "footer",
+                "social": "social"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true,
+            "header_text": 1,
+            "custom_logo": ""
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "Привет, мир!",
+            "post_content": "<!-- wp:paragraph -->\n<p>Добро пожаловать на WordPress. Это ваша первая запись. Отредактируйте или удалите ее, затем пишите!</p>\n<!-- /wp:paragraph -->",
+            "post_name": "hello-world",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "hs_old_id": 26,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Главная",
+            "post_content": "<!-- wp:group {\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull\"><div class=\"wp-block-group__inner-container\"><!-- wp:heading {\"level\":1,\"placeholder\":\"Add heading...\",\"textColor\":\"foreground-dark\"} -->\n<h1 class=\"has-foreground-dark-color\">Специально отобранная коллекция отреставрированных старинных камер и аксессуаров.</h1>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"placeholder\":\"Add content...\"} -->\n<p>Вводная часть страницы, сопровождается кратким текстом и призывом к действию.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column {\"width\":23} -->\n<div class=\"wp-block-column\" style=\"flex-basis:23%;\"><!-- wp:button {\"className\":\"is-style-default\"} -->\n<div class=\"wp-block-button is-style-default\"><a class=\"wp-block-button__link\" href=\"#\">Подробнее</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":77} -->\n<div class=\"wp-block-column\" style=\"flex-basis:77%;\"><!-- wp:button {\"textColor\":\"primary\",\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color has-primary-color\" href=\"#\">Предзаказ </a></div>\n<!-- /wp:button --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:cover {\"url\":\"https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-432666-jpeg.jpg\",\"id\":61,\"hasParallax\":true,\"dimRatio\":30,\"overlayColor\":\"foreground-dark\",\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull has-background-dim-30 has-foreground-dark-background-color has-background-dim has-parallax\" style=\"background-image:url('https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-432666-jpeg.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:heading -->\n<h2><br><br><br><br><br><br><br></h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title…\",\"className\":\"has-large-font-size has-large-font-size has-huge-font-size has-large-font-size\"} -->\n<p style=\"text-align:center;\" class=\"has-large-font-size has-large-font-size has-huge-font-size has-large-font-size\"><em>Как новый</em></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2><br><br><br><br><br><br><br></h2>\n<!-- /wp:heading --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:columns {\"verticalAlignment\":\"top\",\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-top\"><!-- wp:column {\"verticalAlignment\":\"top\",\"width\":33.33} -->\n<div class=\"wp-block-column is-vertically-aligned-top\" style=\"flex-basis:33.33%;\"><!-- wp:paragraph {\"textColor\":\"foreground-dark\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-color has-small-font-size has-foreground-dark-color\"><strong>GX-303</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"customTextColor\":\"#ff302c\"} -->\n<h2 style=\"color:#ff302c;\">Полевая линза Galaxy Deep</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-light\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-color has-small-font-size has-foreground-light-color\"><strong>СКОРО!</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">Lectus quisque eligendi eget sagittis praesent sapiente ipsam, nulla dolor, hymenaeos nobis doloremque aspernatur fuga doloribus! Risus praesent porttitor deleniti inceptos magnam, commodi et rerum! Pulvinar! Ante amet facere mattis. Velit pariatur, curabitur qui ex. Repellendus duis nostrum, iure pretium feugiat, pharetra quos, dignissimos parturient pariatur cum, veniam rhoncus, dolores.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"customTextColor\":\"#ff302c\",\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color\" href=\"#\" style=\"color:#ff302c;\">Подробнее</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"top\",\"width\":66.66} -->\n<div class=\"wp-block-column is-vertically-aligned-top\" style=\"flex-basis:66.66%;\"><!-- wp:image {\"id\":62,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-432222-jpeg-e1563987029380.jpg?w=750\" alt=\"\" class=\"wp-image-62\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:media-text {\"mediaId\":63,\"mediaType\":\"image\",\"verticalAlignment\":\"top\",\"imageFill\":true} -->\n<div class=\"wp-block-media-text alignwide is-vertically-aligned-top is-image-fill\"><figure class=\"wp-block-media-text__media\" style=\"background-image:url('https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-593223-jpeg.jpg?w=750');background-position:50% 50%;\"><img src=\"https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-593223-jpeg.jpg?w=750\" alt=\"\" class=\"wp-image-63\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">Luctus quasi wisi aspernatur phasellus do urna numquam facere temporibus magni dicta nec quidem nonummy cursus, natoque quibusdam eu fusce felis porttitor fuga a ea non pellentesque! Ligula lorem tempor senectus ridiculus pariatur voluptatum dignissimos. Ipsam dicta at harum? Adipisicing, nascetur.</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"verticalAlignment\":\"top\",\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-top\"><!-- wp:column {\"verticalAlignment\":\"top\",\"width\":66} -->\n<div class=\"wp-block-column is-vertically-aligned-top\" style=\"flex-basis:66%;\"><!-- wp:image {\"id\":65,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-593179-jpeg-e1564077551741.jpg?w=750\" alt=\"\" class=\"wp-image-65\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:media-text {\"mediaPosition\":\"right\",\"mediaId\":66,\"mediaType\":\"image\",\"verticalAlignment\":\"top\",\"imageFill\":true} -->\n<div class=\"wp-block-media-text alignwide has-media-on-the-right is-vertically-aligned-top is-image-fill\"><figure class=\"wp-block-media-text__media\" style=\"background-image:url('https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-463157-jpeg-e1564076520510.jpg?w=750');background-position:50% 50%;\"><img src=\"https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-463157-jpeg-e1564076520510.jpg?w=750\" alt=\"\" class=\"wp-image-66\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">Ullam cum eos, fusce laboriosam architecto luctus urna fusce dolorum, inventore proident fugiat justo, eros ut litora cubilia sollicitudin doloribus similique sapien. Cumque sapien repellendus vel harum malesuada nibh tempus dolores eaque porta vel. Recusandae hac tempor gravida, nec venenatis.</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"top\",\"width\":34} -->\n<div class=\"wp-block-column is-vertically-aligned-top\" style=\"flex-basis:34%;\"><!-- wp:paragraph {\"textColor\":\"foreground-dark\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-color has-small-font-size has-foreground-dark-color\"><strong>BW-400</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"customTextColor\":\"#1285ce\"} -->\n<h2 style=\"color:#1285ce;\">Черно-белая пленка Foto 400</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-light\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-color has-small-font-size has-foreground-light-color\"><strong>СКОРО!</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">Facere magni architecto ratione etiam magna aenean penatibus fusce nostra, consequat feugiat quas sit, quibusdam nostrum ab illum. Nobis accusantium ullamco, dolorum gravida fusce, senectus iusto iaculis ratione. Semper laudantium, voluptas porttitor. Lorem nesciunt, consequat iaculis faucibus quibusdam. Nihil, ridiculus fames labore.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"customTextColor\":\"#1285ce\",\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color\" href=\"#\" style=\"color:#1285ce;\">Подробнее</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"verticalAlignment\":\"top\",\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-top\"><!-- wp:column {\"verticalAlignment\":\"top\",\"width\":33.33} -->\n<div class=\"wp-block-column is-vertically-aligned-top\" style=\"flex-basis:33.33%;\"><!-- wp:paragraph {\"textColor\":\"foreground-dark\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-color has-small-font-size has-foreground-dark-color\"><strong>DP-505</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":96} -->\n<div style=\"height:96px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"customTextColor\":\"#eea01a\",\"className\":\"mb-0 pb-0\"} -->\n<h2 class=\"mb-0 pb-0\" style=\"color:#eea01a;\">Камера системы астроориентации + макрообъектив</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-light\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-color has-small-font-size has-foreground-light-color\"><strong>СКОРО!</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">Lectus quisque eligendi eget sagittis praesent sapiente ipsam, nulla dolor, hymenaeos nobis doloremque aspernatur fuga doloribus! Risus praesent porttitor deleniti inceptos magnam, commodi et rerum. Ante amet facere mattis. Velit pariatur, curabitur qui ex. Repellendus duis nostrum, iure pretium feugiat, pharetra quos, dignissimos parturient pariatur cum, veniam rhoncus, dolores.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:button {\"customTextColor\":\"#eea01a\",\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color\" href=\"#\" style=\"color:#eea01a;\">Подробнее</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"top\",\"width\":66.66} -->\n<div class=\"wp-block-column is-vertically-aligned-top\" style=\"flex-basis:66.66%;\"><!-- wp:image {\"id\":67,\"sizeSlug\":\"large\",\"className\":\"mb-0\"} -->\n<figure class=\"wp-block-image size-large mb-0\"><img src=\"https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-432177-jpeg.jpg?w=683\" alt=\"\" class=\"wp-image-67\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:media-text {\"mediaId\":68,\"mediaType\":\"image\",\"verticalAlignment\":\"top\",\"imageFill\":true} -->\n<div class=\"wp-block-media-text alignwide is-vertically-aligned-top is-image-fill\"><figure class=\"wp-block-media-text__media\" style=\"background-image:url('https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-593165-jpeg.jpg?w=750');background-position:50% 50%;\"><img src=\"https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-593165-jpeg.jpg?w=750\" alt=\"\" class=\"wp-image-68\"  /></figure><div class=\"wp-block-media-text__content\"><!-- wp:paragraph {\"className\":\"has-small-font-size\"} -->\n<p class=\"has-small-font-size\">Sit maxime sed eiusmod iaculis mollis eros a fusce. Massa, porro auctor nam urna at nisl fringilla cursus quos ullamcorper, anim, curabitur odit facilis beatae aliquet, ratione. Lorem aspernatur explicabo, facere doloremque proin urna eaque purus nibh vestibulum dignissimos laoreet cubilia, cum exercitation.</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":64} -->\n<div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":33.33} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:heading {\"textColor\":\"foreground-dark\"} -->\n<h2 class=\"has-foreground-dark-color\">Технические характеристики</h2>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":66.66} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:separator {\"className\":\"is-style-wide alignwide\"} -->\n<hr class=\"wp-block-separator is-style-wide alignwide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-4-columns\"} -->\n<div class=\"wp-block-columns alignwide has-4-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6,\"customTextColor\":\"#ff302c\"} -->\n<h6 style=\"color:#ff302c;\">Замена редких запасных частей</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-dark\",\"className\":\"has-small-font-size\"} -->\n<p class=\"has-text-color has-foreground-dark-color has-small-font-size\">Doloribus in a dictumst habitant for morbi dignissim corrupti non. Potenti porttitor, adipiscing a veritatis for the etiam for neque primis of the curabitur… <strong><em><a href=\"https://dsgnsystm.development/about/\">читать далее...</a></em></strong>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6,\"customTextColor\":\"#1285ce\"} -->\n<h6 style=\"color:#1285ce;\">Ремонт электропроводки</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-dark\",\"className\":\"has-small-font-size\"} -->\n<p class=\"has-text-color has-foreground-dark-color has-small-font-size\">Doloribus in a dictumst habitant for morbi dignissim corrupti non. Potenti porttitor, adipiscing a veritatis for the etiam for neque primis of the curabitur… <strong><em><a href=\"https://dsgnsystm.development/about/\">читать далее...</a></em></strong>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6,\"customTextColor\":\"#eea01a\"} -->\n<h6 style=\"color:#eea01a;\">Все оборудование тщательно проверено</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"textColor\":\"foreground-dark\",\"className\":\"has-small-font-size\"} -->\n<p style=\"text-align:left;\" class=\"has-text-color has-foreground-dark-color has-small-font-size\">Doloribus in a dictumst habitant for morbi dignissim corrupti non. Potenti porttitor, adipiscing a veritatis for the etiam for neque primis of the curabitur… <strong><em><a href=\"https://dsgnsystm.development/about/\">читать далее...</a></em></strong>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":6} -->\n<h6>Первоклассный контроль качества</h6>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-dark\",\"className\":\"has-small-font-size\"} -->\n<p class=\"has-text-color has-foreground-dark-color has-small-font-size\">Doloribus in a dictumst habitant for morbi dignissim corrupti non. Potenti porttitor, adipiscing a veritatis for the etiam for neque primis of the curabitur… <strong><em><a href=\"https://dsgnsystm.development/about/\">читать далее...</a></em></strong>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:image {\"align\":\"full\",\"id\":69,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignfull size-large\"><img src=\"https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-432216-jpeg-e1564076954530.jpg?w=750\" alt=\"\" class=\"wp-image-69\"  /></figure>\n<!-- /wp:image -->\n\n<!-- wp:group {\"customBackgroundColor\":\"#3672cd\",\"align\":\"full\"} -->\n<div class=\"wp-block-group alignfull has-background\" style=\"background-color:#3672cd;\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"textColor\":\"background\"} -->\n<h2 class=\"has-background-color\">Профессиональные высококачественные <em>камеры</em>, <em>инструменты</em> и <em>аксессуары</em> для современных увлеченных фотографов.</h2>\n<!-- /wp:heading -->\n\n<!-- wp:spacer {\"height\":128} -->\n<div style=\"height:128px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div></div>\n<!-- /wp:group -->\n\n<!-- wp:spacer {\"height\":64} -->\n<div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":33.33} -->\n<div class=\"wp-block-column\" style=\"flex-basis:33.33%;\"><!-- wp:heading {\"textColor\":\"foreground-dark\"} -->\n<h2 class=\"has-foreground-dark-color\">Отзывы наших покупателей</h2>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":66.66} -->\n<div class=\"wp-block-column\" style=\"flex-basis:66.66%;\"></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-light\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-color has-small-font-size has-foreground-light-color\"><strong>Беверли Маттингдейл</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-dark\",\"className\":\"has-huge-font-size\"} -->\n<p class=\"has-text-color has-foreground-dark-color has-huge-font-size\">\"<em>Качество звука гораздо лучше, чем все остальное в моей студии!\" </em></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-light\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-color has-small-font-size has-foreground-light-color\"><strong>Джефферсон Торп</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-dark\",\"className\":\"has-huge-font-size\"} -->\n<p class=\"has-text-color has-foreground-dark-color has-huge-font-size\"><em>\"Я был просто поражен звуковым оформлением и однородностью звучания\". </em></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-light\",\"fontSize\":\"small\"} -->\n<p class=\"has-text-color has-small-font-size has-foreground-light-color\"><strong>Кельвин Тристан</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"textColor\":\"foreground-dark\",\"className\":\"has-huge-font-size\"} -->\n<p class=\"has-text-color has-foreground-dark-color has-huge-font-size\"><em>\"Невероятно — вот всё, что я могу сказать об этих ребятах\".</em></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:separator {\"className\":\"is-style-wide alignwide\"} -->\n<hr class=\"wp-block-separator is-style-wide alignwide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":64} -->\n<div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":33.33} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:33.33%;\"><!-- wp:heading {\"textColor\":\"foreground-dark\"} -->\n<h2 class=\"has-foreground-dark-color\">Подписаться на <br>рассылку</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Получайте новости и содержимое прямо на почту.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"verticalAlignment\":\"center\",\"width\":66.66} -->\n<div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:66.66%;\"><!-- wp:jetpack/subscriptions -->\n<div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div>\n<!-- /wp:jetpack/subscriptions --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":64} -->\n<div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide alignwide\"} -->\n<hr class=\"wp-block-separator is-style-wide alignwide\"  />\n<!-- /wp:separator -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 9,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Контакты",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Давайте общаться. Свяжитесь с нами, используя контактные данные ниже, или отправьте сообщение через специальную форму.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} -->\n<div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Связаться с нами</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"10 Street Road\",\"city\":\"City\",\"postal\":\"10100\",\"country\":\"USA\"} -->\n<div class=\"wp-block-jetpack-address\"><div class=\"jetpack-address__address jetpack-address__address1\">Улица, дом</div><div><span class=\"jetpack-address__city\">Город</span>, <span class=\"jetpack-address__region\"></span> <span class=\"jetpack-address__postal\">Индекс</span></div><div class=\"jetpack-address__country\">США</div></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div>\n<!-- /wp:jetpack/email -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone --></div>\n<!-- /wp:jetpack/contact-info --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} -->\n<h2 class=\"has-text-align-left\">Отправить сообщение</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /-->\n\n<!-- wp:jetpack/field-url /-->\n\n<!-- wp:jetpack/field-textarea {\"required\":true} /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 5,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "О нас",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Читатели захотят узнать, кто создает материалы, которые им нравятся. Здесь вы можете рассказать о себе, своем сайте, бизнесе или о чем угодно. Используйте окно отзывов ниже, чтобы привести мнение других людей. Это даже могут быть высказывания об одном и том же, но разными словами.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p style=\"text-align:left;\">Это образец текста шаблона для демонстрации его функций. Вы можете заменить его на свой текст или аудио- и видеоматериалы.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"left\",\"level\":3} -->\n<h3 class=\"has-text-align-left\">Что говорят другие</h3>\n<!-- /wp:heading -->\n\n<!-- wp:columns {\"align\":\"wide\",\"className\":\"has-3-columns\"} -->\n<div class=\"wp-block-columns alignwide has-3-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Лучший способ начать — перестать говорить и приступить к делу.</p><cite>Уолт Дисней</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Человек — это не свойство характера, а сделанный им выбор.</p><cite>Дж. К. Роулинг</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Не плачь, потому что это закончилось. Улыбнись, потому что это было.</p><cite>Доктор Сьюз</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Давайте творить что-то новое вместе!</h2>\n<!-- /wp:heading -->\n\n<!-- wp:button {\"align\":\"center\"} -->\n<div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"#\">Связаться с нами</a></div>\n<!-- /wp:button -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "open",
+            "hs_old_id": 1,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "footer": {
+            "name": "Нижняя часть",
+            "items": [
+                {
+                    "menu-item-title": "Главная",
+                    "menu-item-db-id": 37,
+                    "menu-item-object-id": "9",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "О нас",
+                    "menu-item-db-id": 39,
+                    "menu-item-object-id": "1",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Контакты",
+                    "menu-item-db-id": 38,
+                    "menu-item-object-id": "5",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "main-nav": {
+            "name": "Главное меню навигации",
+            "items": [
+                {
+                    "menu-item-title": "Главная",
+                    "menu-item-db-id": 34,
+                    "menu-item-object-id": "34",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "/"
+                },
+                {
+                    "menu-item-title": "О нас",
+                    "menu-item-db-id": 35,
+                    "menu-item-object-id": "1",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Контакты",
+                    "menu-item-db-id": 36,
+                    "menu-item-object-id": "5",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Социальные сети",
+            "items": [
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 40,
+                    "menu-item-object-id": "40",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://twitter.com"
+                },
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 41,
+                    "menu-item-object-id": "41",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://facebook.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 42,
+                    "menu-item-object-id": "42",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https://instagram.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-432216-jpeg-e1564076954530.jpg",
+        "https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-593165-jpeg.jpg",
+        "https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-432177-jpeg.jpg",
+        "https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-463157-jpeg-e1564076520510.jpg",
+        "https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-593179-jpeg-e1564077551741.jpg",
+        "https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-593223-jpeg.jpg",
+        "https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-432222-jpeg-e1563987029380.jpg",
+        "https://levendemo.files.wordpress.com/2019/08/image-from-rawpixel-id-432666-jpeg.jpg",
+        "https://levendemo.files.wordpress.com/2019/07/cropped-logo1-1.png",
+        "https://levendemo.files.wordpress.com/2019/07/cropped-logo1.png",
+        "https://levendemo.files.wordpress.com/2019/07/logo1.png"
+    ]
+}

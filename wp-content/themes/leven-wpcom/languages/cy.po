@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Leven\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:58:45+00:00\n"
+"PO-Revision-Date: 2019-07-25 20:26:52+0000\n"
+"Language: cy_GB\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:86
+msgid "White"
+msgstr "Gwyn"
+
+#: functions.php:81
+msgid "Light Gray"
+msgstr "Llwyd Golau"
+
+#: functions.php:76
+msgid "Gray"
+msgstr "Llwyd"
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "Llwyd Tywyll"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Eilaidd"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Cynradd"
+
+#: functions.php:49
+msgid "XL"
+msgstr "Mawr Ianw"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Anferth"
+
+#: functions.php:43
+msgid "L"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Mawr"
+
+#: functions.php:37
+msgid "M"
+msgstr "A"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Arferol"
+
+#: functions.php:31
+msgid "S"
+msgstr "E"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Bach"

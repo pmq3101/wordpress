@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Leven\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:58:45+00:00\n"
+"PO-Revision-Date: 2019-07-25 20:26:52+0000\n"
+"Language: km_KH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:81
+msgid "Light Gray"
+msgstr "ពណ៌ប្រផេះស្ដើង"
+
+#: functions.php:86
+msgid "White"
+msgstr "ស"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "ធំ"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "បថម"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "បន្ទាប់បន្សំ"
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "ពណ៌ប្រផេះចាស់"
+
+#: functions.php:76
+msgid "Gray"
+msgstr "ប្រផេះ"
+
+#: functions.php:30
+msgid "Small"
+msgstr "តូច"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "ធម្មតា"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "ធំ"

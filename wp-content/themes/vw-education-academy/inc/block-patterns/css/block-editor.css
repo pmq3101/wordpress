@@ -1,0 +1,68 @@
+.banner-box h1, .about-section h2, .about-section h3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  margin-top: 5px ;
+  margin-bottom: 5px ;
+}
+.banner-box p, .banner-box .wp-block-buttons, .about-section p, .about-section .wp-block-buttons{
+  font-family: 'Roboto', sans-serif;
+  margin-top: 15px !important;
+  margin-bottom: 5px !important;
+}
+.about-section h3 {
+  margin-top: 16px !important;
+}
+/*Banner section*/
+.banner-box.block-editor-block-list__block:after {
+  content: "";
+  background: url(../images/line.png);
+  background-repeat: repeat-x;
+  background-position: center top;
+  height: 23px;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  min-height: auto;
+  z-index: 999;
+  top: auto;
+}
+.banner-box .block-editor-rich-text__editable.wp-block-button__link{
+  border: solid 2px #ffbc00;
+  color: #ffffff !important;
+  font-size: 14px;
+}
+.banner-box .block-editor-rich-text__editable.wp-block-button__link:hover{
+  border: solid 2px #ffffff !important;
+  color: #ffffff !important;
+  background: transparent !important;
+}
+/*About section*/
+.about-section h2:before {
+  content: "\f19d";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #f7c02e;
+  display: block;
+  font-size: 50px;
+}
+.about-section h2:after{
+  content: "";
+  border-bottom: solid 3px #ffbc00;
+  position: absolute;
+  left: 0;
+  width: 6%;
+  margin-top: 45px;
+}
+.about-section figure.wp-block-image.size-large.is-resized {
+  text-align: center;
+}
+.about-section .block-editor-rich-text__editable.wp-block-button__link{
+  border: solid 2px #111111;
+  font-weight: 900;
+  font-size: 14px;
+}
+.about-section .block-editor-rich-text__editable.wp-block-button__link:hover{
+  background: #ffbc00 !important;
+  border-color: #ffbc00;
+  color: #fff !important;
+}

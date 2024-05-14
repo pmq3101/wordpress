@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Leven\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-02T02:33:41+00:00\n"
+"PO-Revision-Date: 2022-05-31 09:54:16+0000\n"
+"Language: id\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/leven"
+msgstr "https://id.wordpress.com/tema/leven"
+
+#: functions.php:98
+msgid "Foreground Dark"
+msgstr "Latar Depan Gelap"
+
+#: functions.php:93
+msgid "Foreground Light"
+msgstr "Latar Depan Terang"
+
+#: functions.php:88
+msgid "Background"
+msgstr "Latar belakang"
+
+#: functions.php:83
+msgid "Foreground"
+msgstr "Latar Depan"
+
+#. Description of the theme
+msgid "A colorful, typography driven, Gutenberg-ready theme meant to grab the attention of potential customers and market or sell products to them."
+msgstr "Tema yang penuh warna, berdasarkan tipografi, siap untuk Gutenberg bertujuan untuk menarik perhatian pelanggan yang potensial dan memasarkan atau menjual produk kepada mereka."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:136
+msgctxt "Crimson Text font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:78
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: functions.php:73
+msgid "Primary"
+msgstr "Utama"
+
+#: functions.php:48
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:47
+msgid "Huge"
+msgstr "Besar"
+
+#: functions.php:42
+msgid "L"
+msgstr "L"
+
+#: functions.php:41
+msgid "Large"
+msgstr "Besar"
+
+#: functions.php:36
+msgid "M"
+msgstr "M"
+
+#: functions.php:35
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:30
+msgid "S"
+msgstr "S"
+
+#: functions.php:29
+msgid "Small"
+msgstr "Kecil"
