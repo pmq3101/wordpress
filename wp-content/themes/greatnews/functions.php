@@ -458,3 +458,96 @@ require get_template_directory() . '/inc/jetpack.php';
  * Load core file
  */
 require get_template_directory() . '/inc/core.php';
+
+function add_custom_birth_date_column_to_wp_users() {
+    global $wpdb;
+    $column_name = 'birth_date';
+    $table_name = $wpdb->prefix . 'users';
+
+    // Check if the column already exists
+    $column_exists = $wpdb->get_results("SHOW COLUMNS FROM {$table_name} LIKE '{$column_name}'");
+
+    if (empty($column_exists)) {
+        // Add the new column
+        $wpdb->query("ALTER TABLE {$table_name} ADD {$column_name} DATE");
+    }
+}
+add_action('init', 'add_custom_birth_date_column_to_wp_users');
+
+function um_save_birth_date_to_wp_users_table($user_id) {
+	if (isset($_POST['birth_date-9']) && !empty($_POST['birth_date-9'])) {
+        $birth_date = sanitize_text_field($_POST['birth_date-9']);
+        error_log("Birth Date after getting from POST: " . $birth_date);
+        // Update the custom expected_output column in the wp_users table
+        global $wpdb;
+        $wpdb->update(
+            $wpdb->users,
+            array('birth_date' => $birth_date),
+            array('ID' => $user_id)
+        );
+
+        // Log success message
+        error_log("Birth Date field updated successfully for user ID: " . $user_id);
+    } else {
+        error_log("Birth Date field is not set or empty.");
+    }
+
+    // Update the birth_date field if present in $_POST
+    if (isset($_POST['birth_date-9']) && !empty($_POST['birth_date-9'])) {
+        $birth_date = sanitize_text_field($_POST['birth_date-9']);
+        
+		error_log("Birth Date after getting from POST: " . $birth_date);
+
+        // Update the birth_date column in the wp_users table
+        $wpdb->update(
+            $wpdb->users,
+            array('birth_date' => $birth_date),
+            array('ID' => $user_id)
+        );
+
+        // Log success message
+        error_log("Birth date updated successfully for user ID: " . $user_id);
+    } else {
+        error_log("Birth date is not set or empty.");
+    }
+}
+
+function add_custom_expected_output_column_to_wp_users() {
+    global $wpdb;
+    $column_name = 'expected_output';
+    $table_name = $wpdb->prefix . 'users';
+
+    // Check if the column already exists
+    $column_exists = $wpdb->get_results("SHOW COLUMNS FROM {$table_name} LIKE '{$column_name}'");
+
+    if (empty($column_exists)) {
+        // Add the new column
+        $wpdb->query("ALTER TABLE {$table_name} ADD {$column_name} VARCHAR(255)");
+    }
+}
+add_action('init', 'add_custom_expected_output_column_to_wp_users');
+
+
+function um_save_expected_output_to_wp_users_table($user_id) {
+    if (isset($_POST['expected_output-9']) && !empty($_POST['expected_output-9'])) {
+        $expected_output = sanitize_text_field($_POST['expected_output-9']);
+		$birth_date = sanitize_text_field($_POST['birth_date-9']);
+        // Update the custom expected_output column in the wp_users table
+        global $wpdb;
+        $wpdb->update(
+            $wpdb->users,
+            array('expected_output' => $expected_output),
+            array('ID' => $user_id)
+        );
+
+        // Log success message
+        error_log("Expected Output field updated successfully for user ID: " . $user_id);
+    } else {
+        error_log("Expected Output field is not set or empty.");
+    }
+}
+
+add_action('um_registration_complete', 'um_save_birth_date_to_wp_users_table', 10, 1);
+add_action('um_registration_complete', 'um_save_expected_output_to_wp_users_table', 10, 1);
+add_action('um_user_profile_update', 'um_save_expected_output_to_wp_users_table', 10, 1);
+

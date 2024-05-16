@@ -80,8 +80,10 @@ $table_prefix = 'wp_';
  *
  * @link https://wordpress.org/documentation/article/debugging-in-wordpress/
  */
-define('WP_DEBUG', false);
-
+define('WP_DEBUG', true);
+define( 'SAVEQUERIES', true );
+define('WP_DEBUG_LOG', true);
+define('WP_DEBUG_DISPLAY', false); // Set to false to hide errors from displaying on the frontend
 /* Add any custom values between this line and the "stop editing" line. */
 
 
@@ -97,3 +99,8 @@ if (!defined('ABSPATH')) {
 require_once ABSPATH . 'wp-settings.php';
 define('WP_HOME', 'http://localhost:8080/wordpress');
 define('WP_SITEURL', 'http://localhost:8080/wordpress');
+
+//define( 'WP_DEBUG_LOG', true );
+//define( 'WP_DEBUG_DISPLAY', false );
+@ini_set( 'display_errors', 0 );
+define( 'SCRIPT_DEBUG', true );
