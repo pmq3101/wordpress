@@ -757,3 +757,5 @@ function um_save_knowledge_level_to_wp_users_table($user_id)
 
 add_action('um_registration_complete', 'um_save_knowledge_level_to_wp_users_table', 10, 1);
 add_action('um_after_user_updated', 'um_save_knowledge_level_to_wp_users_table', 10, 1);
+
+
