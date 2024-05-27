@@ -3583,3 +3583,316 @@ Stack trace:
 [27-May-2024 07:11:32 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
 [27-May-2024 07:11:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
 [27-May-2024 07:11:42 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:13:33 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:13:38 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:13:52 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:14:02 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:14:07 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:16 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:19 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:22 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:24 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:25 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:25 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:25 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\wordpress\wp-includes\theme.php on line 1964
+[27-May-2024 07:15:25 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php on line 246
+[27-May-2024 07:15:26 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:26 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:30 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:31 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:32 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:34 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:34 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:15:39 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:16:35 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:16:51 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:16:52 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:17:35 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:17:39 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:17:52 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:19:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:19:40 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:19:53 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:21:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:21:41 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:21:54 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:23:11 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:23:13 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:23:13 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:23:13 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:23:13 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\wordpress\wp-includes\theme.php on line 1964
+[27-May-2024 07:23:13 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:23:13 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php on line 246
+[27-May-2024 07:23:17 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:23:17 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:23:55 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:25:51 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:21 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:28 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:32 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:34 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:35 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:37 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\wordpress\wp-includes\theme.php on line 1964
+[27-May-2024 07:26:37 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php on line 246
+[27-May-2024 07:26:48 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:48 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:49 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:26:50 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:01 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:02 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:03 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:07 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:11 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:11 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:11 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:12 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:12 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:12 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:13 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:26 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:33 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:41 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:27:56 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:11 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:22 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:24 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:26 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:33 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:34 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:42 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:47 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:49 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:50 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:28:59 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:29:59 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:32:00 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:34:01 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:36:02 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:38:03 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:38:51 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:38:53 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:38:54 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:38:54 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:38:54 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\wordpress\wp-includes\theme.php on line 1964
+[27-May-2024 07:38:54 UTC] PHP Deprecated:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\wordpress\wp-includes\shortcodes.php on line 246
+[27-May-2024 07:39:33 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:33 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:50 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:51 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:52 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:52 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:53 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:54 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:39:56 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:02 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:03 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:03 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:04 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:10 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:11 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:18 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:19 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:19 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:20 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:23 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:24 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:24 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:25 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:27 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:30 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:30 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:31 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:33 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:38 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:38 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:46 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:46 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:47 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:47 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:48 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:48 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:49 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:53 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:40:59 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:41:00 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:41:01 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:41:03 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:41:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:41:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:41:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:41:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:41:11 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:41:23 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:06 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:10 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:11 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:21 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:35 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:44 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:45 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:45 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:46 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:49 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:50 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:50 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:51 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:52 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:55 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:56 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:56 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:42:58 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:02 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:05 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:06 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:21 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:25 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:26 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:26 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:28 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:29 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:32 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:51 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:57 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:57 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:58 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:43:59 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:02 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:02 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:03 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:03 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:04 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:06 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:09 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:18 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:20 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:24 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:24 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:25 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:27 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:33 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:44:58 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:45:00 UTC] Birth Date after getting from POST: 2024/05/27
+[27-May-2024 07:45:00 UTC] Birth Date field updated successfully for user ID: 24
+[27-May-2024 07:45:00 UTC] Birth Date after getting from POST: 2024/05/27
+[27-May-2024 07:45:00 UTC] Birth date updated successfully for user ID: 24
+[27-May-2024 07:45:00 UTC] Expected Output field updated successfully for user ID: 24
+[27-May-2024 07:45:00 UTC] Phone Number after getting from POST: 0707287422
+[27-May-2024 07:45:00 UTC] Phone Number updated successfully for user ID: 24
+[27-May-2024 07:45:00 UTC] school_name after getting from POST: uet
+[27-May-2024 07:45:00 UTC] school_name updated successfully for user ID: 24
+[27-May-2024 07:45:00 UTC] School Check after getting from POST: Yes
+[27-May-2024 07:45:00 UTC] School Check updated successfully for user ID: 24
+[27-May-2024 07:45:00 UTC] Job Situation after getting from POST: Studying
+[27-May-2024 07:45:00 UTC] Job Situation updated successfully for user ID: 24
+[27-May-2024 07:45:00 UTC] Knowledge Level after getting from POST: Don\'t know anything yet
+[27-May-2024 07:45:00 UTC] Knowledge Level updated successfully for user ID: 24
+[27-May-2024 07:45:02 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:45:06 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:45:34 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:45:49 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:46:05 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:46:15 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:46:18 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:46:20 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:46:21 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:46:21 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:46:23 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:46:58 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:00 UTC] Birth Date after getting from POST: 2024/04/29
+[27-May-2024 07:47:00 UTC] Birth Date field updated successfully for user ID: 25
+[27-May-2024 07:47:00 UTC] Birth Date after getting from POST: 2024/04/29
+[27-May-2024 07:47:00 UTC] Birth date updated successfully for user ID: 25
+[27-May-2024 07:47:00 UTC] Expected Output field updated successfully for user ID: 25
+[27-May-2024 07:47:00 UTC] Phone Number after getting from POST: 0707287411
+[27-May-2024 07:47:00 UTC] Phone Number updated successfully for user ID: 25
+[27-May-2024 07:47:00 UTC] school_name after getting from POST: uet
+[27-May-2024 07:47:00 UTC] school_name updated successfully for user ID: 25
+[27-May-2024 07:47:00 UTC] School Check after getting from POST: Yes
+[27-May-2024 07:47:00 UTC] School Check updated successfully for user ID: 25
+[27-May-2024 07:47:00 UTC] Job Situation after getting from POST: Studying
+[27-May-2024 07:47:00 UTC] Job Situation updated successfully for user ID: 25
+[27-May-2024 07:47:00 UTC] Knowledge Level after getting from POST: Expert
+[27-May-2024 07:47:00 UTC] Knowledge Level updated successfully for user ID: 25
+[27-May-2024 07:47:00 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:02 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:15 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:30 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:31 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:31 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:32 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:33 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:33 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:34 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:35 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:40 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:40 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:41 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:41 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:48 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:49 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:51 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:51 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:52 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:54 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:55 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:55 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:55 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:56 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:57 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:47:59 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:48:05 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:48:10 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:48:12 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:48:15 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:48:27 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:48:30 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:48:32 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:49:21 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:49:43 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:49:57 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:54:59 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:55:00 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:55:01 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:55:08 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:55:17 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:55:18 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:55:30 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:55:34 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:55:37 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:56:32 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
+[27-May-2024 07:56:36 UTC] PHP Warning:  Constant SCRIPT_DEBUG already defined in C:\xampp\htdocs\wordpress\wp-config.php on line 106
