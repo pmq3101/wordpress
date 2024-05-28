@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Intelly Countdown\n"
+"POT-Creation-Date: 2022-03-14 09:14-0400\n"
+"PO-Revision-Date: 2022-03-14 11:20-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;_x\n"
+
+msgid "seconds"
+msgstr "secondes"
+
+msgid "second"
+msgstr "seconde"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "hours"
+msgstr "heures"
+
+msgid "hour"
+msgstr "heure"
+
+msgid "days"
+msgstr "jours"
+
+msgid "day"
+msgstr "jour"
