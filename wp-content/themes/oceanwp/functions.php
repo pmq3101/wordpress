@@ -1472,3 +1472,249 @@ function um_save_knowledge_level_to_wp_users_table($user_id)
 
 add_action('um_registration_complete', 'um_save_knowledge_level_to_wp_users_table', 10, 1);
 add_action('um_after_user_updated', 'um_save_knowledge_level_to_wp_users_table', 10, 1);
+
+
+function enqueue_chartjs_in_admin()
+{
+	wp_enqueue_script('chart-js', 'https://cdn.jsdelivr.net/npm/chart.js', [], null, true);
+}
+add_action('admin_enqueue_scripts', 'enqueue_chartjs_in_admin');
+
+function add_custom_dashboard_widget()
+{
+	wp_add_dashboard_widget('custom_knowledge_level_chart', 'Knowledge Level Distribution', 'custom_dashboard_knowledge_level_chart');
+}
+add_action('wp_dashboard_setup', 'add_custom_dashboard_widget');
+
+function custom_dashboard_knowledge_level_chart()
+{
+	global $wpdb;
+
+	// Fetch data from wp_users table
+	$results = $wpdb->get_results("
+        SELECT knowledge_level, COUNT(*) as count
+        FROM $wpdb->users
+        GROUP BY knowledge_level;
+    ");
+
+	// Prepare data for Chart.js
+	$knowledge_levels = ['Unknown', 'Relatively knowledgeable', 'Knowledgeable', 'Expert'];
+	$counts = [0, 0, 0, 0];
+	$total_count = 0;
+
+	foreach ($results as $row) {
+		$index = array_search($row->knowledge_level, $knowledge_levels);
+		if ($index !== false) {
+			$counts[$index] = $row->count;
+			$total_count += $row->count;
+		}
+	}
+
+	// Calculate percentages
+	$percentages = array_map(function ($count) use ($total_count) {
+		return $total_count > 0 ? round(($count / $total_count) * 100, 2) : 0;
+	}, $counts);
+
+?>
+	<canvas id="knowledgeLevelChart" width="400" height="200"></canvas>
+	<script>
+		document.addEventListener('DOMContentLoaded', function() {
+			var ctx = document.getElementById('knowledgeLevelChart').getContext('2d');
+			var chart = new Chart(ctx, {
+				type: 'pie',
+				data: {
+					labels: <?php echo json_encode($knowledge_levels); ?>,
+					datasets: [{
+						data: <?php echo json_encode($percentages); ?>,
+						backgroundColor: [
+							'rgba(255, 99, 132, 0.2)',
+							'rgba(54, 162, 235, 0.2)',
+							'rgba(255, 206, 86, 0.2)',
+							'rgba(75, 192, 192, 0.2)'
+						],
+						borderColor: [
+							'rgba(255, 99, 132, 1)',
+							'rgba(54, 162, 235, 1)',
+							'rgba(255, 206, 86, 1)',
+							'rgba(75, 192, 192, 1)'
+						],
+						borderWidth: 1
+					}]
+				},
+				options: {
+					responsive: true,
+					plugins: {
+						legend: {
+							position: 'top',
+						},
+						tooltip: {
+							callbacks: {
+								label: function(tooltipItem) {
+									return tooltipItem.label + ': ' + tooltipItem.raw + '%';
+								}
+							}
+						}
+					}
+				}
+			});
+		});
+	</script>
+<?php
+}
+
+
+function add_school_check_dashboard_widget()
+{
+	wp_add_dashboard_widget('school_check_chart', 'School Check Distribution', 'school_check_dashboard_chart');
+}
+add_action('wp_dashboard_setup', 'add_school_check_dashboard_widget');
+
+function school_check_dashboard_chart()
+{
+	global $wpdb;
+
+	// Fetch data from wp_users table
+	$results = $wpdb->get_results("
+        SELECT school_check, COUNT(*) as count
+        FROM $wpdb->users
+        GROUP BY school_check;
+    ");
+
+	// Prepare data for Chart.js
+	$school_checks = ['Yes', 'No'];
+	$counts = [0, 0];
+	$total_count = 0;
+
+	foreach ($results as $row) {
+		$index = array_search($row->school_check, $school_checks);
+		if ($index !== false) {
+			$counts[$index] = $row->count;
+			$total_count += $row->count;
+		}
+	}
+
+	// Calculate percentages
+	$percentages = array_map(function ($count) use ($total_count) {
+		return $total_count > 0 ? round(($count / $total_count) * 100, 2) : 0;
+	}, $counts);
+
+?>
+	<canvas id="schoolCheckChart" width="400" height="200"></canvas>
+	<script>
+		document.addEventListener('DOMContentLoaded', function() {
+			var ctx = document.getElementById('schoolCheckChart').getContext('2d');
+			var chart = new Chart(ctx, {
+				type: 'pie',
+				data: {
+					labels: <?php echo json_encode($school_checks); ?>,
+					datasets: [{
+						data: <?php echo json_encode($percentages); ?>,
+						backgroundColor: [
+							'rgba(75, 192, 192, 0.2)',
+							'rgba(255, 99, 132, 0.2)'
+						],
+						borderColor: [
+							'rgba(75, 192, 192, 1)',
+							'rgba(255, 99, 132, 1)'
+						],
+						borderWidth: 1
+					}]
+				},
+				options: {
+					responsive: true,
+					plugins: {
+						legend: {
+							position: 'top',
+						},
+						tooltip: {
+							callbacks: {
+								label: function(tooltipItem) {
+									return tooltipItem.label + ': ' + tooltipItem.raw + '%';
+								}
+							}
+						}
+					}
+				}
+			});
+		});
+	</script>
+<?php
+}
+
+function add_job_situation_dashboard_widget()
+{
+	wp_add_dashboard_widget('job_situation_chart', 'Job Situation Distribution', 'job_situation_dashboard_chart');
+}
+add_action('wp_dashboard_setup', 'add_job_situation_dashboard_widget');
+
+function job_situation_dashboard_chart()
+{
+	global $wpdb;
+
+	// Fetch data from wp_users table
+	$results = $wpdb->get_results("
+        SELECT job_situation, COUNT(*) as count
+        FROM $wpdb->users
+        GROUP BY job_situation;
+    ");
+
+	// Prepare data for Chart.js
+	$job_situations = ['Working', 'Studying'];
+	$counts = [0, 0];
+	$total_count = 0;
+
+	foreach ($results as $row) {
+		$index = array_search($row->job_situation, $job_situations);
+		if ($index !== false) {
+			$counts[$index] = $row->count;
+			$total_count += $row->count;
+		}
+	}
+
+	// Calculate percentages
+	$percentages = array_map(function ($count) use ($total_count) {
+		return $total_count > 0 ? round(($count / $total_count) * 100, 2) : 0;
+	}, $counts);
+
+?>
+	<canvas id="jobSituationChart" width="400" height="200"></canvas>
+	<script>
+		document.addEventListener('DOMContentLoaded', function() {
+			var ctx = document.getElementById('jobSituationChart').getContext('2d');
+			var chart = new Chart(ctx, {
+				type: 'pie',
+				data: {
+					labels: <?php echo json_encode($job_situations); ?>,
+					datasets: [{
+						data: <?php echo json_encode($percentages); ?>,
+						backgroundColor: [
+							'rgba(75, 192, 192, 0.2)',
+							'rgba(255, 206, 86, 0.2)'
+						],
+						borderColor: [
+							'rgba(75, 192, 192, 1)',
+							'rgba(255, 206, 86, 1)'
+						],
+						borderWidth: 1
+					}]
+				},
+				options: {
+					responsive: true,
+					plugins: {
+						legend: {
+							position: 'top',
+						},
+						tooltip: {
+							callbacks: {
+								label: function(tooltipItem) {
+									return tooltipItem.label + ': ' + tooltipItem.raw + '%';
+								}
+							}
+						}
+					}
+				}
+			});
+		});
+	</script>
+<?php
+}
