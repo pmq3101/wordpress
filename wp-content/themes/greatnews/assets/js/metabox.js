@@ -1,1 +1,0 @@
-jQuery(document).ready(function(){jQuery("#great-news-ui-tabs").tabs()});
