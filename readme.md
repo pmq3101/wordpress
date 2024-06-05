@@ -6,6 +6,7 @@ Chức năng cho ban tổ chức
 - Sử dụng CMS để tạo cấu trúc cho website và đăng tin bài.
 - Mở và đóng thời gian đăng ký học
 - Thống kê, in, xuất danh sách học viên.
+  
 Chức năng cho học viên
 - Đăng ký học
 
