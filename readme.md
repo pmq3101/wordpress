@@ -10,3 +10,6 @@ Chức năng cho ban tổ chức
 Chức năng cho học viên
 - Đăng ký học
 
+Giao diện màn hình chính:
+![màn hình chính](https://github.com/pmq3101/wordpress/assets/100105601/344d6b87-d8fb-4d84-822a-b755d67cad72)
+
