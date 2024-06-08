@@ -1498,7 +1498,7 @@ function custom_dashboard_knowledge_level_chart()
     ");
 
 	// Prepare data for Chart.js
-	$knowledge_levels = ['Unknown', 'Relatively knowledgeable', 'Knowledgeable', 'Expert'];
+	$knowledge_levels = ['Unknown', 'Relatively', 'Knowledge', 'Expert'];
 	$counts = [0, 0, 0, 0];
 	$total_count = 0;
 
