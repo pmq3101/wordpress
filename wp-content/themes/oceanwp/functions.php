@@ -1718,3 +1718,95 @@ function job_situation_dashboard_chart()
 	</script>
 <?php
 }
+
+
+function custom_user_list_menu()
+{
+	add_menu_page(
+		'User List', // Page title
+		'User List', // Menu title
+		'manage_options', // Capability
+		'custom-user-list', // Menu slug
+		'custom_user_list_page', // Callback function
+		'dashicons-admin-users', // Icon
+		6 // Position
+	);
+}
+add_action('admin_menu', 'custom_user_list_menu');
+
+function custom_user_list_page()
+{
+	global $wpdb;
+
+	$columns = array('ID', 'user_login', 'user_email', 'display_name', 'school_name', 'knowledge_level', 'job_situation', 'school_check', 'expected_output');
+	$columns_list = implode(', ', $columns);
+
+	$users = $wpdb->get_results("SELECT $columns_list FROM {$wpdb->users}");
+
+	if (empty($users)) {
+		echo '<p>No users found.</p>';
+		return;
+	}
+
+?>
+	<div class="wrap">
+		<h1>User List</h1>
+		<table border="1" cellpadding="10" style="border-collapse: collapse; width: 100%;">
+			<thead>
+				<tr>
+					<?php foreach ($columns as $column) : ?>
+						<th><?php echo esc_html(ucwords(str_replace('_', ' ', $column))); ?></th>
+					<?php endforeach; ?>
+				</tr>
+			</thead>
+			<tbody>
+				<?php foreach ($users as $user) : ?>
+					<tr>
+						<?php foreach ($columns as $column) : ?>
+							<td><?php echo esc_html($user->$column); ?></td>
+						<?php endforeach; ?>
+					</tr>
+				<?php endforeach; ?>
+			</tbody>
+		</table>
+		<button class="print-button" onclick="window.print()">Print</button>
+	</div>
+<?php
+}
+
+function custom_user_list_print_styles()
+{
+	echo '<style>
+		.print-button {
+            background-color: #fa4d3d;
+            color: white;
+            padding: 10px 20px;
+            border: 2px solid #fa4d3d;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+            border-radius: 4px;
+        }
+        .print-button:hover {
+            background-color: #e33a2c;
+        }
+        @media print {
+            body * {
+                visibility: hidden;
+            }
+            .wrap, .wrap * {
+                visibility: visible;
+            }
+            .wrap {
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+            }
+            .print-button {
+                display: none;
+            }
+        }
+    </style>';
+}
+add_action('admin_head', 'custom_user_list_print_styles');
